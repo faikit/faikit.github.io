@@ -154,7 +154,12 @@ input, select, textarea {
 	body {
 		background-color: #ffffff;
 		color: #000000;
-		user-select: none;
+		-webkit-touch-callout:none;
+		-webkit-user-select:none;
+		-khtml-user-select:none;
+		-moz-user-select:none;
+		-ms-user-select:none;
+		user-select:none;
 	}
 
 	body, input, select, textarea {
