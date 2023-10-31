@@ -88,7 +88,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 # Service
-- huih
+- Challenge Organizer for AD Challenge 2023, CVPR 2023.
 
 
 
