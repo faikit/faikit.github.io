@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huijie Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "OpenDriveLab, Shanghai AI Lab"
+  bio              : "OpenDriveLab<br>Shanghai AI Lab"
   location         : "Canton, China"
   employer         :
   pubmed           : 
@@ -40,7 +40,7 @@ author:
   github           : "faikit"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/wongfaikit"
+  instagram        : "wongfaikit"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/wongfaikit"
+  twitter          : "wongfaikit"
   vine             :
   weibo            :
   xing             :
