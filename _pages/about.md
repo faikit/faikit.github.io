@@ -37,10 +37,10 @@ I am currently a Researcher at [OpenDriveLab](opendrivelab.com), Shanghai AI Lab
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-<b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://arxiv.org/abs/2304.10440)</b><br>
+- <b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://arxiv.org/abs/2304.10440)</b><br>
 **Huijie Wang**, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Hongyang Li, *et al.*<br>
-- [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2)
-- [OpenLane Topology @ AD Challenge 2023 @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
+  - [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2)
+  - [OpenLane Topology @ AD Challenge 2023 @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
 </div>
 </div>
 
