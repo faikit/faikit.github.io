@@ -27,7 +27,7 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shangha
 
 
 
-# 📝 Publications 
+# Publication
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -40,7 +40,7 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shangha
 - <b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://arxiv.org/abs/2304.10440)</b><br>
 **Huijie Wang**, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Hongyang Li, *et al.*<br>
   - [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub"/></a>
-  - [OpenLane Topology @ AD Challenge 2023 @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
+  - [OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
 </div>
 </div>
 
@@ -59,26 +59,8 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-
-
-# 📖 Educations
-- *2019.10 - 2022.01*, M.Sc. Informatics, Department of Informatics, Technical University of Munich. 
-- *2016.10 - 2019.08*, B.Sc. Informatics, Department of Informatics, Karlsruhe Institute of Technology. 
-
-
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-
-
-# 💻 Research
-<b>OpenDriveLab @ Shanghai AI Lab</b>
+# Research
+<b>OpenDriveLab, Shanghai AI Lab</b>
 <br> 
 *2022.01 - present*, Shanghai, China
 <br>
@@ -89,6 +71,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 *2021.03 - 2021.06*, Beijing, China
 <br>
 - Real-time Semantic Segmentation
+- 3D Object Detection
 
 <b>CUHK, Shenzhen</b>
 <br> 
@@ -101,3 +84,27 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 *2020.08 - 2020.11*, Munich, Germany
 <br>
 - Constrained Optimization
+
+
+
+# Service
+- huih
+
+
+
+# Competition
+- 3D Semantic Segmentation, Waymo Open Challenge, CVPR 2022, **1st Place**. 
+- Medical Out-of-Distribution Analysis Challenge, MICCAI 2021. 
+- International Endoscopy Computer Vision Challenge and Workshop, ISBI 2021.
+
+
+
+# Education
+- *2019.10 - 2022.01*, M.Sc. Informatics, Department of Informatics, Technical University of Munich. 
+- *2016.10 - 2019.08*, B.Sc. Informatics, Department of Informatics, Karlsruhe Institute of Technology. 
+
+
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
