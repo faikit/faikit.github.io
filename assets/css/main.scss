@@ -60,6 +60,7 @@ a:hover {
     .paper-box-image{
         justify-content: center;
         display: flex;
+        margin-left: 2%;
         // width: 100%;
         order: 1;
         img {
@@ -81,6 +82,7 @@ a:hover {
             min-width: 200px;
             max-width: 40%;
             order: 1;
+            margin-left: 2%;
         }
         
         .paper-box-text{
