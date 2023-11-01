@@ -59,7 +59,9 @@ Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, 
 <b>[Multi-compound Transformer for Accurate Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_31)</b><br>
 Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo. MICCAI 2021.
 
+``Geometric-aware Pretraining for Vision-centric 3D Object Detection``
 
+> Geometric-aware Pretraining for Vision-centric 3D Object Detection
 
 # Research
 <b>OpenDriveLab, Shanghai AI Lab</b>
