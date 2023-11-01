@@ -29,6 +29,9 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shangha
 
 # Publication
 
+- <b>[自动驾驶开源数据体系：现状与未来](https://opendrivelab.com/Dataset_Survey_Chinese.pdf)</b><br>
+Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -45,17 +48,16 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shangha
 </div>
 
 - <b>[Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/abs/2304.05277)</b><br>
-Tianyu Li, Li Chen, **Huijie Wang**, Yang Li, Jiazhi Yang, Xiangwei Geng, Hongyang Li, *et al.*
+Tianyu Li, Li Chen, **Huijie Wang**, Yang Li, Jiazhi Yang, Xiangwei Geng, Hongyang Li, *et al.* Preprint.
 
 - <b>[Geometric-aware Pretraining for Vision-centric 3D Object Detection](https://arxiv.org/abs/2304.03105)</b><br>
-Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li.
+Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. preprint.
 
 - <b>[Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)</b><br>
-Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.*
+Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* arXiv Preprint.
 
 - <b>[Multi-compound Transformer for Accurate Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_31)</b><br>
-Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo.
-**MICCAI 2021**
+Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo. MICCAI 2021.
 
 
 
