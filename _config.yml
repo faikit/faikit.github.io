@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Huijie Wang"
 description              : "Researcher at OpenDriveLab"
-repository               : "faikit"
+repository               : "faikit/faikit.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
