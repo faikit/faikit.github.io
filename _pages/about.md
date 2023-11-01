@@ -51,10 +51,10 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
 Tianyu Li, Li Chen, **Huijie Wang**, Yang Li, Jiazhi Yang, Xiangwei Geng, Hongyang Li, *et al.* Preprint.
 
 <b>[Geometric-aware Pretraining for Vision-centric 3D Object Detection](https://arxiv.org/abs/2304.03105)</b><br>
-Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. preprint.
+Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. Preprint.
 
 <b>[Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)</b><br>
-Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* arXiv Preprint.
+Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* Preprint.
 
 <b>[Multi-compound Transformer for Accurate Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_31)</b><br>
 Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo. MICCAI 2021.
