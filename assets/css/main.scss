@@ -40,13 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-a {
-    color: mix(#000, $gray, 40%);
-}
-a:hover {
-    opacity: .7;
-}
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -114,6 +107,6 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: rgb(128,0,128);
+    background-color: #5a32a0;
     font-size: .8em;
 }

@@ -84,11 +84,12 @@
   }
 
   a {
-    text-decoration: underline;
-
+    // text-decoration: underline;
+    color: rgb(90, 50, 160);
+    text-decoration: none;
     &:hover {
       text-decoration: underline;
-
+      // opacity: .7;
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shanghai AI Lab. I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shanghai AI Lab. I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=citations"></a>
 
 
 
@@ -32,6 +32,8 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shangha
 <b>[自动驾驶开源数据体系：现状与未来](https://opendrivelab.com/Dataset_Survey_Chinese.pdf)</b><br>
 Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
 
+<div style="height: 8px;"> </div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -42,26 +44,32 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
   <div class='paper-box-text' markdown="1">
 <b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://arxiv.org/abs/2304.10440)</b><br>
 **Huijie Wang**, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Hongyang Li, *et al.*<br>
-  - [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub" style="opacity: .8"/></a>
+  - [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social&logo=GitHub&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=stars" alt="GitHub"/></a>
   - [OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
 </div>
 </div>
 
+<div style="height: 8px;"> </div>
+
 <b>[Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/abs/2304.05277)</b><br>
 Tianyu Li, Li Chen, **Huijie Wang**, Yang Li, Jiazhi Yang, Xiangwei Geng, Hongyang Li, *et al.* Preprint.
+
+<div style="height: 8px;"> </div>
 
 <b>[Geometric-aware Pretraining for Vision-centric 3D Object Detection](https://arxiv.org/abs/2304.03105)</b><br>
 Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. Preprint.
 
+<div style="height: 8px;"> </div>
+
 <b>[Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)</b><br>
 Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* Preprint.
+
+<div style="height: 8px;"> </div>
 
 <b>[Multi-compound Transformer for Accurate Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_31)</b><br>
 Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang, Ping Luo. MICCAI 2021.
 
-``Geometric-aware Pretraining for Vision-centric 3D Object Detection``
 
-> Geometric-aware Pretraining for Vision-centric 3D Object Detection
 
 # Research
 <b>OpenDriveLab, Shanghai AI Lab</b>
