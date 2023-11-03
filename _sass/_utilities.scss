@@ -297,8 +297,7 @@ body:hover .visually-hidden button {
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  opacity: .8;
-  border-radius: 1px;
+  opacity: .6;
 
   &:before,
   &:after {
@@ -310,8 +309,7 @@ body:hover .visually-hidden button {
     background: #7b8287;
     -webkit-transition: 0.3s;
     transition: 0.3s;
-    opacity: .8;
-    border-radius: 1px;
+    opacity: .6;
   }
 
   &:before {
