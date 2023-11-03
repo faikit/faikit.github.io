@@ -293,11 +293,10 @@ body:hover .visually-hidden button {
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: #7b8287;
+  background: rgba(123, 130, 135, .7);
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  opacity: .6;
 
   &:before,
   &:after {
@@ -306,10 +305,9 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #7b8287;
+    background: rgba(123, 130, 135, .7);
     -webkit-transition: 0.3s;
     transition: 0.3s;
-    opacity: .6;
   }
 
   &:before {
