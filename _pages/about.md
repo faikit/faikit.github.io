@@ -62,7 +62,7 @@ Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Y
 <div style="height: 8px;"> </div>
 
 <b>[Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe](https://arxiv.org/abs/2209.05324)</b><br>
-Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* Preprint.
+Hongyang Li, Chonghao Sima, Jifeng Dai, Wenhai Wang, Lewei Lu, **Huijie Wang**, *et al.* IEEE TPAMI.
 
 <div style="height: 8px;"> </div>
 
