@@ -105,7 +105,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 # Service
-- Challenge Organizer for AD Challenge 2023, CVPR 2023.
+- Challenge Organizer for [AD Challenge @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html), [AD Challenge @ CVPR 2024](https://opendrivelab.com/AD24Challenge.html).
 - Maintainer for [opendrivelab.com](https://opendrivelab.com/)
 
 
