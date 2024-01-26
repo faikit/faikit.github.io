@@ -122,6 +122,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 # Education
 - *2019.10 - 2022.01*, M.Sc. Informatics, Department of Informatics, Technical University of Munich. 
 - *2016.10 - 2019.08*, B.Sc. Informatics, Department of Informatics, Karlsruhe Institute of Technology. 
+- *2011.09 - 2014.06*, 執信中學. 
 
 
 
