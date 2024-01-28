@@ -106,7 +106,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 # Service
 - Workshop Organizer for [FM4AS @ CVPR 2024](https://opendrivelab.com/cvpr2024/).
-- Challenge Organizer for [Autonomous System Challenge @ CVPR 2024](https://opendrivelab.com/cvpr2024/challenge/), [Autonomous Driving Challenge @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html).
+- Challenge Organizer for [Autonomous System Challenge @ CVPR 2024](https://opendrivelab.com/cvpr2024/), [Autonomous Driving Challenge @ CVPR 2023](https://opendrivelab.com/AD23Challenge.html).
 - Reviewer for CVPR 2024.
 - <a href="https://www.hp.com/us-en/workstations/industries/ambassadors.html" target="_blank">Z by HP Ambassador</a>.
 - Maintainer for [starleague.ai](https://starleague.ai/), [opendrivelab.com](https://opendrivelab.com/).
