@@ -113,7 +113,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 # Competition
-- 3D Semantic Segmentation, Waymo Open Challenge, CVPR 2022, **1st Place**. 
+- 3D Semantic Segmentation, Waymo Open Challenge, CVPR 2022, 1st Place. 
 - Medical Out-of-Distribution Analysis Challenge, MICCAI 2021. 
 - International Endoscopy Computer Vision Challenge and Workshop, ISBI 2021.
 
