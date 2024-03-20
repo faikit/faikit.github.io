@@ -34,7 +34,7 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
 
 <div style="height: 8px;"> </div>
 
-<b>[自动驾驶开源数据体系：现状与未来](https://www.researchgate.net/publication/375331218_Open-sourced_Data_Ecosystem_in_Autonomous_Driving_the_Present_and_Future?channel=doi&linkId=65467b44ce88b87031c4ceab&showFulltext=true)</b><br>
+<b>[自动驾驶开源数据体系：现状与未来](https://doi.org/10.1360/SSI-2023-0313)</b><br>
 Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
 
 <div style="height: 8px;"> </div>
@@ -47,10 +47,11 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-<b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://arxiv.org/abs/2304.10440)</b><br>
+<b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c0a4c8c236144f1b99b7e1531debe9c-Abstract-Datasets_and_Benchmarks.html)</b><br>
 **Huijie Wang**, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Hongyang Li, *et al.*<br>
   - [OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social&logo=GitHub&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=stars" alt="GitHub"/></a>
-  - [OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
+  - [Mapless Driving, Autonomous Grand Challenge, CVPR 2024](https://opendrivelab.com/challenge2024/#mapless_driving)
+  - [OpenLane Topology, Autonomous Driving Challenge, CVPR 2023](https://opendrivelab.com/challenge2023/#openlane_topology)
 </div>
 </div>
 
