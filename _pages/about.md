@@ -35,7 +35,7 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
 <div style="height: 8px;"> </div>
 
 <b>[自动驾驶开源数据体系：现状与未来](https://doi.org/10.1360/SSI-2023-0313)</b><br>
-Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
+Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* 中国科学：信息科学.
 
 <div style="height: 8px;"> </div>
 
