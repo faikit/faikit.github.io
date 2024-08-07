@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huijie Wang"
-description              : "Researcher at OpenDriveLab"
+description              : ""
 repository               : "faikit/faikit.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huijie Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "OpenDriveLab<br>Shanghai AI Lab"
+  bio              : "Researcher at OpenDriveLab, Shanghai AI Lab"
   location         : "Canton, China"
   employer         :
   pubmed           : 
