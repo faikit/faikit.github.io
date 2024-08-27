@@ -110,7 +110,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 - Challenge Organizer for [Autonomous Grand Challenge @ CVPR 2024](https://opendrivelab.com/challenge2024/), [Autonomous Driving Challenge @ CVPR 2023](https://opendrivelab.com/challenge2023/).
 - Reviewer for ICLR 2025, CVPR 2024, ECCV 2024, NeurIPS 2024.
 - <a href="https://www.hp.com/us-en/workstations/industries/ambassadors.html" target="_blank">Z by HP Ambassador</a>.
-- Maintainer for [opendrivelab.com](https://opendrivelab.com/) and [starleague.ai](https://starleague.ai/).
+- Maintainer for [opendrivelab.com](https://opendrivelab.com/).
 
 
 # Competition
