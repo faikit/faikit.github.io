@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com), Shanghai AI Lab. I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=citations"></a>
+I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com). I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=citations"></a>
 
 
 
@@ -78,7 +78,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 # Research
-<b>OpenDriveLab, Shanghai AI Lab</b>
+<b>OpenDriveLab</b>
 <br> 
 *2022.01 - present*, Shanghai, China
 <br>
