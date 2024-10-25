@@ -82,6 +82,7 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 <br> 
 *2022.01 - present*, Shanghai, China
 <br>
+- Coordinator
 - Perception in Autonomous Driving
 
 <b>Cambricon</b>
