@@ -107,13 +107,12 @@ Yuanfeng Ji, Ruimao Zhang, **Huijie Wang**, Zhen Li, Lingyun Wu, Shaoting Zhang,
 
 
 # Service
+- IEEE Member. Secretary for [IEEE VT/AVSC/AAA-WG](https://sagroups.ieee.org/3474/).
 - IEEE SA WHITE PAPER: [AUTONOMOUS DRIVING ARCHITECTURE (ADA): Enabling Intelligent, Automated, and Connected Vehicles and Transportation](https://ieeexplore.ieee.org/document/10669279), [Simulation, Testing, Verification, and Validation (STV2) of Autonomous Driving](https://ieeexplore.ieee.org/document/10709902).
 - Workshop Organizer for [FM4AS @ CVPR 2024](https://opendrivelab.com/cvpr2024/workshop/), [E2EAD @ CVPR 2023](https://opendrivelab.com/e2ead/cvpr23); Tutorial Organizer for [Towards Building AGI in Autonomy and Robotics @ CVPR 2024](https://opendrivelab.com/cvpr2024/tutorial/).
 - Challenge Organizer for [Autonomous Grand Challenge @ CVPR 2024](https://opendrivelab.com/challenge2024/), [Autonomous Driving Challenge @ CVPR 2023](https://opendrivelab.com/challenge2023/).
-- Secretary for [IEEE VT/AVSC/AAA-WG](https://sagroups.ieee.org/3474/).
 - Reviewer for ICLR 2025, CVPR 2024, ECCV 2024, NeurIPS 2024.
 - <a href="https://www.hp.com/us-en/workstations/industries/ambassadors.html" target="_blank">Z by HP Ambassador</a>.
-- Maintainer for [opendrivelab.com](https://opendrivelab.com/).
 
 
 # Competition
