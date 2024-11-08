@@ -29,13 +29,8 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com). I recei
 
 # Publication
 
-<b>[Open-sourced Data Ecosystem in Autonomous Driving: the Present and Future](https://arxiv.org/abs/2312.03408)</b><br>
-Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* Preprint.
-
-<div style="height: 8px;"> </div>
-
-<b>[自动驾驶开源数据体系：现状与未来](https://doi.org/10.1360/SSI-2023-0313)</b><br>
-Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* 中国科学：信息科学.
+<b>[Open-sourced Data Ecosystem in Autonomous Driving: The Present and Future](https://doi.org/10.1360/SSI-2023-0313)</b><br>
+Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* SCIENTIA SINICA Informationis 2024.
 
 <div style="height: 8px;"> </div>
 
