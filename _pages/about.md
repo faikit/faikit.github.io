@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com). I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=citations"></a>
+I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com). I received my M.Sc. in Computer Science from Technical University of Munich in 2022, and my B.Sc. in Computer Science from Karlsruhe Institute of Technology in 2019. My research interests include autonomous driving and computer vision. <a href='https://scholar.google.com/citations?user=Xg4cp-EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&logoColor=4a4e52&labelColor=ffffff&color=ef4089&style=flat&label=citations"></a>
 
 
 
@@ -44,7 +44,7 @@ Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* SCIENTIA SINICA Inform
   <div class='paper-box-text' markdown="1">
 <b>[OpenLane-V2: A Topology Reasoning Benchmark for Unified 3D HD Mapping](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c0a4c8c236144f1b99b7e1531debe9c-Abstract-Datasets_and_Benchmarks.html)</b><br>
 **Huijie Wang**, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Hongyang Li, *et al.*<br>
-  - [The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social&logo=GitHub&logoColor=4a4e52&labelColor=ffffff&color=5a32a0&style=flat&label=stars" alt="GitHub"/></a>
+  - [The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving](https://github.com/OpenDriveLab/OpenLane-V2) &nbsp; <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social&logo=GitHub&logoColor=4a4e52&labelColor=ffffff&color=ef4089&style=flat&label=stars" alt="GitHub"/></a>
   - [Mapless Driving, Autonomous Grand Challenge, CVPR 2024](https://opendrivelab.com/challenge2024/#mapless_driving)
   - [OpenLane Topology, Autonomous Driving Challenge, CVPR 2023](https://opendrivelab.com/challenge2023/#openlane_topology)
 </div>
