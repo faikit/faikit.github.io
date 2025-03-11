@@ -74,8 +74,8 @@ Tianyu Li, Li Chen, **Huijie Wang**, Yang Li, Jiazhi Yang, Xiangwei Geng, Hongya
 
 <div style="height: 8px;"> </div>
 
-<b>[Geometric-aware Pretraining for Vision-centric 3D Object Detection](https://arxiv.org/abs/2304.03105)</b><br>
-Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. Preprint.
+<b>[LiDAR-guided Geometric Pretraining for Vision-Centric 3D Object Detection](https://link.springer.com/article/10.1007/s11263-025-02351-4)</b><br>
+Linyan Huang, **Huijie Wang**, Jia Zeng, Shengchuan Zhang, Liujuan Cao, Junchi Yan, Hongyang Li. IJCV 2025.
 
 <div style="height: 8px;"> </div>
 
