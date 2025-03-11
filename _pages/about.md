@@ -29,6 +29,23 @@ I am currently a Researcher at [OpenDriveLab](https://opendrivelab.com). I recei
 
 # Publication
 
+<div style="height: 8px;"> </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/go-1.png' >
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+<b>[AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://arxiv.org/abs/2503.06669)</b><br>
+AgiBot World Contributors<br>
+  - [The Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://github.com/OpenDriveLab/AgiBot-World) &nbsp; <a href="https://github.com/OpenDriveLab/AgiBot-World"><img src="https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World?style=social&logo=GitHub&logoColor=4a4e52&labelColor=ffffff&color=ef4089&style=flat&label=stars" alt="GitHub"/></a>
+  - [Research Blog](https://opendrivelab.com/blog/agibot-world/)
+</div>
+</div>
+
 <b>[Open-sourced Data Ecosystem in Autonomous Driving: The Present and Future](https://doi.org/10.1360/SSI-2023-0313)</b><br>
 Hongyang Li, Yang Li, **Huijie Wang**, Jia Zeng, *et al.* SCIENTIA SINICA Informationis 2024.
 
